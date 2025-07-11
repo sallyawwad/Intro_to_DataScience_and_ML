@@ -1,1 +1,1 @@
-# Intro_to_DataScience_and_ML
+# Introduction to DataScience and Machine Learning
